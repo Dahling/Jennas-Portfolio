@@ -33,3 +33,7 @@ body {
 .footer {
   height: 50px;
 }
+h4 {
+  text-align: right;
+  padding-right: 10px;
+}
