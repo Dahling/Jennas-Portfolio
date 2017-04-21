@@ -8,9 +8,18 @@ h1 {
 .container {
 
 }
-ul li {
+li {
   list-style: none;
 }
 h4 {
   text-align: right;
+}
+p {
+  text-align: justify;
+}
+.blank {
+  color:#fff;
+}
+.row {
+
 }
