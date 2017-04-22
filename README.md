@@ -16,7 +16,6 @@ _This is my portfolio. The purpose of this portfolio is to allow the user to see
 * _Simple and Sweet_
 * _Hope you have a lovely day_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
 ## Known Bugs
 
@@ -31,7 +30,5 @@ _If you have any issues, email me, and I will gladly respond._
 _I used Bootstrap to create this responsive layout, as well as many of Bootstrap's features (e.g., classes, etc.). Other than that I implemented various html and CSS aspects that I've learned during my first week at Epicodus. I also used the Terminal, Git, and GitHub. This was all done on my personal MacBook Air (i.e., my boyfriend)._
 
 ### License
-
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
 
 Copyright (c) 2017 **_Jenna Cooper_**
