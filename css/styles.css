@@ -5,7 +5,7 @@ h1 {
 .profilepic {
   float:right;
   /*border: 10px solid #FFDFD4;*/
-  /*border-radius: 10px;*/
+  border-radius: 10px;
 }
 .container {
   /*background-color: #ffffff;*/
