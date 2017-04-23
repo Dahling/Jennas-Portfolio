@@ -5,13 +5,14 @@ h1 {
 .profilepic {
   float:right;
   /*border: 10px solid #FFDFD4;*/
-  border-radius: 10px;
+  border-radius: 1%;
+  margin: 1%;
+  padding:1%;
 }
 .container {
-  /*background-color: #ffffff;*/
+  padding: 1%;
   /*border: 20px solid #FFDFD4;*/
   /*border-radius: 2%;
-  padding: 2%;
   margin: 2%;*/
 }
   /*.container {
