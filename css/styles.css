@@ -4,11 +4,22 @@ h1 {
 }
 .profilepic {
   float:right;
-  padding-top: 10px;
+  /*border: 10px solid #FFDFD4;*/
+  /*border-radius: 10px;*/
 }
 .container {
-
+  /*background-color: #ffffff;*/
+  /*border: 20px solid #FFDFD4;*/
+  /*border-radius: 2%;
+  padding: 2%;
+  margin: 2%;*/
 }
+  /*.container {
+    background-color: white;
+    border-radius: 1%;
+    margin: 20px 20px 20px 140px;
+    padding: 4%;
+}*/
 li {
   list-style: none;
 }
@@ -29,7 +40,11 @@ h3 {
 }
 body {
   /*font-family: 'Lato', sans-serif;*/
-}
+  /*background-color: #FFDFD4;*/
+  background-image: url(http://www.publicdomainpictures.net/pictures/80000/velka/pale-pink-smoke.jpg);
+  background-position: left;
+  /*background-image: url(http://img2.etsystatic.com/006/0/6612672/il_fullxfull.386381622_336g.jpg);
+}*/
 .footer {
   height: 50px;
 }
